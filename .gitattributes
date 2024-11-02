@@ -1,5 +1,3 @@
-. filter=lfs diff=lfs merge=lfs -text
-*.ts filter=lfs diff=lfs merge=lfs -text
-*.tx filter=lfs diff=lfs merge=lfs -text
-Assets/** filter=lfs diff=lfs merge=lfs -text
-projectOne/** filter=lfs diff=lfs merge=lfs -text
+version https://git-lfs.github.com/spec/v1
+oid sha256:c82a1b394be56dc5a4e4fbc2e8ad26eb8ed973d9819deea306c49c25e0e49b6b
+size 258
